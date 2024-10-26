@@ -31,6 +31,6 @@ Below are the instructions to download and install the game on a Linux system.
    cd cave-game
 
 3. Compile the source code to create an executable named cave:
- ```bash
- g++ cave_game.cpp -o cave
+    ```bash
+   g++ cave_game.cpp -o cave
    
